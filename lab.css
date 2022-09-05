@@ -1,0 +1,62 @@
+
+.logo{
+    display: block;
+    margin-left: 550px;
+    height: 200px;
+}
+
+.login-authentication {
+    display: block;
+    margin:8px 0 8px 450px;
+    padding: 5px 30px;
+    height: 35px;
+    width: 400px;
+    border-radius: 18px;
+    
+    
+}
+.facebook{
+    color: white;
+    background-color: rgb(59, 59, 255);
+}
+.apple{
+    color: white;
+    background-color: black;
+}
+.google{
+    color: black;
+    background-color: white;
+}
+.thin-line{
+    display: inline-block;
+    margin: 0 0 0 650px;
+}
+.input-container{
+    margin: 0 0 0 450px;
+}
+.input{
+   margin: 5px 0;
+    height: 25px;
+    width: 400px;
+}
+.login-btn{
+    border-radius: 18px;
+    height: 30px;
+    width: 150px;
+    margin-left: 140px;
+    color: white;
+    background-color: rgb(16, 83, 16);
+}
+.input-container h6{
+    margin-left: 100px;
+}
+.sign-up{
+    display: block;
+    margin:8px 0 8px 0px;
+    padding: 5px 30px;
+    height: 35px;
+    width: 400px;
+    border-radius: 18px;
+    color: grey;
+}
+
